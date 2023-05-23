@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Avinex_Shell_Norco_HCU.props" />
+</Project>
